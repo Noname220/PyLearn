@@ -68,5 +68,5 @@ myAuto.setObiemDviguna(300)
 
 print(myAuto.getObiemDviguna())
 
-# myAuto.setVaga()
-# myAuto.getVaga()
+myAuto.setVaga(111)
+print(myAuto.getVaga())
