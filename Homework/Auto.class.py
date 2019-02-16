@@ -46,6 +46,11 @@ class Auto:
     def getObiemDviguna(self):
         return self.obiemDvyguna
 
+    def setVaga(self, vaga):
+        self.vaga = vaga
+
+    def getVaga(self):
+        return self.vaga
 
 # ---------------------------------------------------------------
 
