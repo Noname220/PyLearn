@@ -52,6 +52,12 @@ class Auto:
     def getVaga(self):
         return self.vaga
 
+    def setMarka(self, marka):
+        self.marka = marka
+
+    def getMarka(self):
+        return self.marka
+
 # ---------------------------------------------------------------
 
 myAuto = Auto("Mercedes", "cls", 225, 297, "2t", 4, 2017)
